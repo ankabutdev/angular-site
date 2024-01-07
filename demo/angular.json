@@ -58,9 +58,6 @@
               },
               {
                 "input": "src/theme/variables.css"
-              },
-              {
-                "input": "node_modules/ionicons/dist/scss/ionicons.scss"
               }
             ],
             "scripts": [],
